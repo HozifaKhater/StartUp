@@ -1,0 +1,13 @@
+C:\Work\StartUpProject\StartUpProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Work\StartUpProject\StartUpProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Work\StartUpProject\StartUpProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Work\StartUpProject\StartUpProject\bin\Debug\netcoreapp3.0\StartUpProject.exe
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\StartUpProject.csprojAssemblyReference.cache
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\staticwebassets\StartUpProject.StaticWebAssets.Manifest.cache
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\staticwebassets\StartUpProject.StaticWebAssets.xml
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\StartUpProject.AssemblyInfoInputs.cache
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\StartUpProject.AssemblyInfo.cs
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\StartUpProject.RazorTargetAssemblyInfo.cache
+C:\Work\StartUpProject\StartUpProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\StartUpProject\StartUpProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\StartUpProject\StartUpProject\obj\Debug\netcoreapp3.0\StartUpProject.csproj.CopyComplete
